@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.instagram.com/asshavy/">
-    <img src="https://img.shields.io/instagram/follow/asshavy?style=for-the-badge&label=%40zuramai&logo=instagram&logoColor=00AEFF&labelColor=black&color=7fff00">
+    <img src="https://img.shields.io/instagram/follow/zuramai?style=for-the-badge&label=%40zuramai&logo=instagram&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a href="mailto:dzulfikar19.ahmad@gmail.com">
     <img src="https://img.shields.io/badge/saugi.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
