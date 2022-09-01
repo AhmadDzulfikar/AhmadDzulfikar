@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
 <h3 align="center">A passionate DataScientist</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"?
+<img align="right" alt="Coding" width="400" src="https://https://tenor.com/view/stick-man-stickman-epic-gif-18834286>
 
 - 🔭 i study at *smkn 10 jakarta*
 
