@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
 <h3 align="center">A passionate DataScientist</h3>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?
-     
-- 🔭 i study at *smkn 10 jakarta*
+- 🔭 I’m study at *SMKN 10 Jakarta*
 
-- 🌱 I’m currently learning *anything*
+- 🌱 I’m currently learning *Laravel, Flutter, Bootstrap*
 
-- 💬 Ask me about *anything*
+- 💬 Ask me about *Anything*
 
-- 📫 How to reach me *dzulfikar19.ahmad@gmail.com*
+- 📫 How to reach me *https://www.instagram.com/asshavy/*
 
 - ⚡ Fun fact *im 16 years old*
 
