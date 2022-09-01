@@ -1,30 +1,20 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
 <h3 align="center">A passionate DataScientist</h3>
 
-- 🔭 I’m currently working on *Lab, School, etc*
+- 🔭 i study at *smkn 10 jakarta*
 
 - 🌱 I’m currently learning *anything*
-
-- 👯 I’m looking to collaborate on *Project*
-
-- 🤝 I’m looking for help with *all*
-
-- 👨‍💻 All of my projects are available at [https://github.com/AhmadDzulfikar](https://github.com/AhmadDzulfikar)
-
-- 📝 I regularly write articles on [https://github.com/AhmadDzulfikar](https://github.com/AhmadDzulfikar)
 
 - 💬 Ask me about *anything*
 
 - 📫 How to reach me *dzulfikar19.ahmad@gmail.com*
 
-- 📄 Know about my experiences [https://github.com/AhmadDzulfikar](https://github.com/AhmadDzulfikar)
-
 - ⚡ Fun fact *im 16 years old*
 
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadDzulfikar&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDzulfikar&theme=monokai"/>
 <br/>
-  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDzulfikar&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadDzulfikar&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
