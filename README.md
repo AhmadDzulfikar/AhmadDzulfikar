@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
 
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?>
  
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadDzulfikar&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br/>
 
