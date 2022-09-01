@@ -10,7 +10,7 @@
 <a href="https://github.com/AhmadDzulfikar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadDzulfikar&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDzulfikar&theme=monokai"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDzulfikar&theme=chartreuse-dark"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
