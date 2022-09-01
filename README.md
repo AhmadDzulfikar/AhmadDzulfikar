@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
 <h3 align="center">A passionate DataScientist</h3>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?
+     
 - 🔭 I’m study at *SMKN 10 Jakarta*
 
 - 🌱 I’m currently learning *Laravel, Flutter, Bootstrap*
