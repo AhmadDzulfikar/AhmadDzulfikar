@@ -3,15 +3,15 @@
     <img src="https://img.shields.io/instagram/follow/zuramai?style=for-the-badge&label=%40zuramai&logo=instagram&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a href="mailto:dzulfikar19.ahmad@gmail.com">
-    <img src="https://img.shields.io/badge/saugi.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/dzulfikar19.ahmad@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
-<a href="https://github.com/zuramai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuramai&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<a href="https://github.com/AhmadDzulfikar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadDzulfikar&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/zuramai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<a href="https://github.com/AhmadDzulfikar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadDzulfikar&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
