@@ -21,7 +21,8 @@
 
 - ⚡ Fun fact *im 16 years old*
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadDzulfikar&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadDzulfikar&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"?<br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDzulfikar&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadDzulfikar&layout=compact&theme=monokai&langs_count=12"/><br />
