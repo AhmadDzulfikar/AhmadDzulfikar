@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
-<h3 align="center">A passionate DataScientist</h3>
+
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?
-     
-- 🔭 I’m study at *SMKN 10 Jakarta*
-
-- 🌱 I’m currently learning *Laravel, Flutter, Bootstrap*
-
-- 💬 Ask me about *Anything*
-
-- 📫 How to reach me *https://www.instagram.com/asshavy/*
-
-- ⚡ Fun fact *im 16 years old*
-
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadDzulfikar&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadDzulfikar&theme=monokai"/>
