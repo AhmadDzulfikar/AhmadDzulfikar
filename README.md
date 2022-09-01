@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AhmadDzulfikar</h1>
 <h3 align="center">A passionate DataScientist</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"?
      
 - 🔭 i study at *smkn 10 jakarta*
 
